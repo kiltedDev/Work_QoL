@@ -1,0 +1,47 @@
+9
+
+0
+BRB
+Biological Research Building
+Large
+%%
+1
+CRB
+Clinical Research Building
+Large
+%%
+2
+BLK
+Blockley Hall
+Large
+%%
+3
+SCL
+Stellar Chance Labs
+Large
+%%
+4
+JMB
+John Morgan Building
+Small
+%%
+5
+STEM
+Stemmler Hall
+Small
+%%
+6
+JP
+Johnson Pavilion
+Small
+%%
+7
+RICH
+Richards Hall
+Small
+%%
+8
+AC
+Anatomy / Chemistry Building
+Small
+%%
